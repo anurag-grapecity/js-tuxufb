@@ -1,0 +1,24 @@
+{
+  "name": "js-mdgrx1",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@grapecity/wijmo": "5.20241.19",
+    "@grapecity/wijmo.grid": "5.20241.19",
+    "@grapecity/wijmo.grid.multirow": "5.20241.19",
+    "@grapecity/wijmo.styles": "5.20241.19",
+    "@mescius/wijmo": "5.20241.19",
+    "@mescius/wijmo.chart": "5.20241.19",
+    "@mescius/wijmo.chart.animation": "5.20241.19",
+    "@mescius/wijmo.grid": "5.20241.19",
+    "@mescius/wijmo.grid.multirow": "5.20241.19",
+    "@mescius/wijmo.grid.transposed": "5.20241.19",
+    "@mescius/wijmo.input": "5.20241.19",
+    "@mescius/wijmo.odata": "5.20241.19",
+    "@mescius/wijmo.rest": "^5.20241.19",
+    "@mescius/wijmo.styles": "5.20241.19",
+    "@popperjs/core": "2.11.8",
+    "bootstrap": "5.3.3",
+    "jszip": "3.10.1"
+  }
+}
